@@ -1,5 +1,5 @@
 # Ex01 Portfolio
-## Date:
+## Date:02/11/2026
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -60,10 +60,10 @@ Upload to GitHub Pages for free hosting.
 <body>
 
 <center>
-    <h1>ARUN R</h1>
+    <h1>Manikandan G</h1>
     <h3>Computer Science Engineering Student</h3>
 
-    <img src="123.png" alt="Arun Profile Photo" width="200" height="300">
+    <img src="123.png" alt="Manikandan Profile Photo" width="200" height="300">
 
     <p>
         <b>Welcome to My Personal Portfolio</b>
@@ -263,7 +263,7 @@ Upload to GitHub Pages for free hosting.
 ```
 
 ## OUTPUT
-<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/7ecca6ec-678a-4df6-968a-bbc898a6bbdb" />
+<img width="1878" height="886" alt="image" src="https://github.com/user-attachments/assets/f9357d48-bd20-4414-8c61-d91d4b727e5a" />
 <img width="1385" height="911" alt="image" src="https://github.com/user-attachments/assets/1bc035df-b421-405b-81be-955dd45b5338" />
 <img width="1346" height="931" alt="image" src="https://github.com/user-attachments/assets/a289ca1f-7904-494b-82ff-218f870209af" />
 <img width="1005" height="530" alt="image" src="https://github.com/user-attachments/assets/a789f7eb-f35d-43a7-8d43-1958aebba5e5" />
